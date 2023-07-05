@@ -1,1 +1,1 @@
-# practice-two
+I've just been making multiple websites using only HTML and CSS before I go into the javascript lessons. Aiming to master these HTML and CSS skills a bit before moving on to javascript. Nevertheless, having lots of fun!
